@@ -260,7 +260,6 @@
     .img-marca {
         width: 170px;
         height: 100px;
-        background-image: url("./imagens/weiv.webp");
         background-position: center;
         background-size: 100%;
         background-repeat: no-repeat;
@@ -269,7 +268,13 @@
     }
 
     .img-marca img {
-        width: 50%;
+        width: 170px;
+        height: 100px;
+        background-position: center;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        object-fit: cover;
+        border-radius: 20px
     }
 
     .redes-sociais {
