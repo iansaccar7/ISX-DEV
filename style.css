@@ -267,7 +267,7 @@
         border-radius: 20px;
     }
 
-    .img-marca img {
+    .img-marca > img {
         width: 170px;
         height: 100px;
         background-position: center;
