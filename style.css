@@ -5,7 +5,7 @@
     }
 
     :root {
-        --color-purple: #636363;
+        --color-orange: #ff7b00;
         --color-black: #202020;
         --color-white: #fafafa; 
     }
@@ -260,7 +260,7 @@
     .img-marca {
         width: 170px;
         height: 100px;
-        background-image: url("./imagens/weiv.webp");
+        background-image: url("./imgs/weiv.webp");
         background-position: center;
         background-size: 100%;
         background-repeat: no-repeat;
@@ -324,7 +324,7 @@
     .widget4 {
         width: 100%;
         height: 16%;
-        background-color: var(--color-purple);
+        background-color: var(--color-orange);
         border-radius: 12px;
         display: flex;
         align-items: center;
